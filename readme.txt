@@ -1,4 +1,4 @@
-=== BLANK Theme ===
+=== Bojan Theme ===
 
 Theme Name:        Bojan
 Theme URI:         https://bojankrivokapic.com/
