@@ -1,4 +1,4 @@
-=== Bojan Theme ===
+=== Bojan Wordpress Theme ===
 
 Theme Name:        Bojan
 Theme URI:         https://bojankrivokapic.com/
